@@ -1,4 +1,5 @@
 Adenosine sequence
+
 Locates the position of stretches containing only adenosine in a protein.
 
 Usage:
